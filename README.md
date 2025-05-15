@@ -85,7 +85,7 @@ REVOKE DELETE ON sekolah.nilai FROM 'guru'@'localhost';
 
 ---
 
-#### **E. Tips untuk Siswa SMK**
+#### **E. Tips untuk Siswa**
 1. **Jangan gunakan `root`** untuk praktik sehari-hari. Biasakan pakai user dengan hak terbatas.
 2. **Password harus kuat**: Contoh: `SiswaSMK_2024!`.
 3. **Error umum**:
